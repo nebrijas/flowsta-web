@@ -1,8 +1,6 @@
 # Repositorio de trabajo del módulo de Periodismo de datos II
 
-Esta actividad consiste en blablalba y bla
-
-Como ahora
+Esta actividad consiste en blablalba
 
 ## Visualización de datos del New York Times
 
