@@ -28,7 +28,20 @@ Herramientas digitales para la presentación y visualización de datos
 - [Canal de Periodismo de Datos del Datalab](https://t.me/datosperiodismo)
 - [Canal de Visualizar, grupo de visualización del Datalab](https://t.me/visualizar)
 - [Canal de datos en general del Datalab](https://t.me/postDatalab)
-
+### Slack
+- [Periodismo Datos](https://join.slack.com/t/periodismodatos/), mantenido por Adolfo Antón Bravo. [Enlace de invitación válido hasta 2022-07-21](https://join.slack.com/t/periodismodatos/shared_invite/zt-1b9epysaa-u8r1cfmjaXBvEZI~l00Yvg). Cuenta con los siguientes canales:
+ - academia
+ - apps
+ - convocatorias
+ - covid19
+ - data
+ - educación
+ - general
+ - intros
+ - lecturas
+ - mpvd
+ - random
+ - salario
 ## Bibliografía
 - 
 - [Manual de git bash](https://www.geeksforgeeks.org/working-on-git-bash/)
